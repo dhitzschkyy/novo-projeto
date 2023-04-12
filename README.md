@@ -1,2 +1,10 @@
 # Meu projeto
-Esse é um projeto de teste.
+
+- texto 1
+- texto 2
+- texto 3
+
+## parte que o ryu mantem o pique
+
+terminal
+git diff nome do arquivo = ver o que foi alterado
