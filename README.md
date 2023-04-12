@@ -8,3 +8,4 @@
 
 terminal
 git diff nome do arquivo = ver o que foi alterado.
+git checkout -b nome da branch = criar nova branch
