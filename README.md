@@ -7,4 +7,4 @@
 ## parte que o ryu mantem o pique
 
 terminal
-git diff nome do arquivo = ver o que foi alterado
+git diff nome do arquivo = ver o que foi alterado.
